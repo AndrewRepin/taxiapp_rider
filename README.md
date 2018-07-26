@@ -1,2 +1,2 @@
-# taxiapp_rider
+# Taxiapp Rider
 Макеты приложения для заказа такси
